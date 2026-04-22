@@ -1,0 +1,104 @@
+{
+  "00001": {
+    "userId": "1329528597366706251",
+    "userName": "l9_d3",
+    "userAvatar": "https://cdn.discordapp.com/avatars/1329528597366706251/3b361c324b3255eb5bb127624eb900f7.webp?size=128",
+    "channelId": "1495859067971829801",
+    "guildId": "1419307179860557869",
+    "category": "hwid_reset",
+    "answers": {
+      "user": "dzqzd",
+      "payment_proof": "https://cdn.discordapp.com/attachments/1495731202512912384/1495858994454204467/image.png?ex=69e7c6bf&is=69e6753f&hm=155292ea38a31e36aba284b115bbbc665a3817684f2f88af65bfbefa4b073d80&",
+      "reason": "",
+      "cpu_screenshot": "https://cdn.discordapp.com/attachments/1495731202512912384/1495859012166750258/image.png?ex=69e7c6c4&is=69e67544&hm=a36ebb59730f9e0fdf1fdf396c3dc0864370b44b5ef4c1c37b6dd85499b6c87c&",
+      "install_date": "https://cdn.discordapp.com/attachments/1495731202512912384/1495859024971960320/image.png?ex=69e7c6c7&is=69e67547&hm=a70880022891054058fa85a087fc43b9c5af105429ab474976f3776ab47732f0&",
+      "pc_changed": ""
+    },
+    "imageUrls": {
+      "payment_proof": "https://cdn.discordapp.com/attachments/1495731202512912384/1495858994454204467/image.png?ex=69e7c6bf&is=69e6753f&hm=155292ea38a31e36aba284b115bbbc665a3817684f2f88af65bfbefa4b073d80&",
+      "cpu_screenshot": "https://cdn.discordapp.com/attachments/1495731202512912384/1495859012166750258/image.png?ex=69e7c6c4&is=69e67544&hm=a36ebb59730f9e0fdf1fdf396c3dc0864370b44b5ef4c1c37b6dd85499b6c87c&",
+      "install_date": "https://cdn.discordapp.com/attachments/1495731202512912384/1495859024971960320/image.png?ex=69e7c6c7&is=69e67547&hm=a70880022891054058fa85a087fc43b9c5af105429ab474976f3776ab47732f0&"
+    },
+    "status": "closed",
+    "claimedBy": "1329528597366706251",
+    "createdAt": "2026-04-20T18:49:52.204Z",
+    "closedAt": "2026-04-20T18:51:24.515Z",
+    "closedBy": "1329528597366706251"
+  },
+  "00002": {
+    "userId": "1329528597366706251",
+    "userName": "l9_d3",
+    "userAvatar": "https://cdn.discordapp.com/avatars/1329528597366706251/3b361c324b3255eb5bb127624eb900f7.webp?size=128",
+    "channelId": "1495860113024614471",
+    "guildId": "1419307179860557869",
+    "category": "hwid_reset",
+    "answers": {
+      "user": "qzdzqd",
+      "payment_proof": "https://cdn.discordapp.com/attachments/1495731202512912384/1495860054837166140/image.png?ex=69e7c7bc&is=69e6763c&hm=a1e7f686d934fa5d59dcdd56f5a757927e7a25c44d7fdfad68858001ce464ff6&",
+      "reason": "",
+      "cpu_screenshot": "https://cdn.discordapp.com/attachments/1495731202512912384/1495860067650637884/image.png?ex=69e7c7bf&is=69e6763f&hm=653f8eb2519e3547022142a0f3dc86e94d35af920d366937d8e0c5f98715049b&",
+      "install_date": "https://cdn.discordapp.com/attachments/1495731202512912384/1495860078908018801/image.png?ex=69e7c7c2&is=69e67642&hm=92078d3bb2703e710f3f0a64923d2e8728e692d763da46c47909f01186262ac5&",
+      "pc_changed": "never"
+    },
+    "imageUrls": {
+      "payment_proof": "https://cdn.discordapp.com/attachments/1495731202512912384/1495860054837166140/image.png?ex=69e7c7bc&is=69e6763c&hm=a1e7f686d934fa5d59dcdd56f5a757927e7a25c44d7fdfad68858001ce464ff6&",
+      "cpu_screenshot": "https://cdn.discordapp.com/attachments/1495731202512912384/1495860067650637884/image.png?ex=69e7c7bf&is=69e6763f&hm=653f8eb2519e3547022142a0f3dc86e94d35af920d366937d8e0c5f98715049b&",
+      "install_date": "https://cdn.discordapp.com/attachments/1495731202512912384/1495860078908018801/image.png?ex=69e7c7c2&is=69e67642&hm=92078d3bb2703e710f3f0a64923d2e8728e692d763da46c47909f01186262ac5&"
+    },
+    "status": "closed",
+    "claimedBy": "1329528597366706251",
+    "createdAt": "2026-04-20T18:54:01.399Z",
+    "closedAt": "2026-04-20T18:54:15.715Z",
+    "closedBy": "1329528597366706251"
+  },
+  "00003": {
+    "userId": "1329528597366706251",
+    "userName": "l9_d3",
+    "userAvatar": "https://cdn.discordapp.com/avatars/1329528597366706251/3b361c324b3255eb5bb127624eb900f7.webp?size=128",
+    "channelId": "1495867450703609957",
+    "guildId": "1419307179860557869",
+    "category": "hwid_reset",
+    "answers": {
+      "license_key": "qzdqzd",
+      "payment_proof": "https://cdn.discordapp.com/attachments/1495731202512912384/1495867385289248868/image.png?ex=69e7ce90&is=69e67d10&hm=153150f913779bf18019c44c6dbe367725f55dcda2824e1169657480e8f74d75&",
+      "reason": "",
+      "cpu_screenshot": "https://cdn.discordapp.com/attachments/1495731202512912384/1495867406331940944/image.png?ex=69e7ce95&is=69e67d15&hm=89c54e9337cd85f32b839452db982ace9abc5a6c9c0a0358fb55f7de080995c0&",
+      "install_date": "https://cdn.discordapp.com/attachments/1495731202512912384/1495867420957610215/image.png?ex=69e7ce99&is=69e67d19&hm=229d90d67b7011dd94105c4e1f13fcbcb89c0cd7326a80c0e235a28855465540&",
+      "pc_changed": "no"
+    },
+    "imageUrls": {
+      "payment_proof": "https://cdn.discordapp.com/attachments/1495731202512912384/1495867385289248868/image.png?ex=69e7ce90&is=69e67d10&hm=153150f913779bf18019c44c6dbe367725f55dcda2824e1169657480e8f74d75&",
+      "cpu_screenshot": "https://cdn.discordapp.com/attachments/1495731202512912384/1495867406331940944/image.png?ex=69e7ce95&is=69e67d15&hm=89c54e9337cd85f32b839452db982ace9abc5a6c9c0a0358fb55f7de080995c0&",
+      "install_date": "https://cdn.discordapp.com/attachments/1495731202512912384/1495867420957610215/image.png?ex=69e7ce99&is=69e67d19&hm=229d90d67b7011dd94105c4e1f13fcbcb89c0cd7326a80c0e235a28855465540&"
+    },
+    "status": "closed",
+    "claimedBy": null,
+    "createdAt": "2026-04-20T19:23:12.019Z",
+    "closedAt": "2026-04-20T19:23:44.370Z",
+    "closedBy": "1329528597366706251"
+  },
+  "00004": {
+    "userId": "1329528597366706251",
+    "userName": "l9_d3",
+    "userAvatar": "https://cdn.discordapp.com/avatars/1329528597366706251/3b361c324b3255eb5bb127624eb900f7.webp?size=128",
+    "channelId": "1495867821329223841",
+    "guildId": "1419307179860557869",
+    "category": "hwid_reset",
+    "answers": {
+      "license_key": "8SEYK-2P3II-ECBAD-OIJBG-JUXA6",
+      "payment_proof": "https://cdn.discordapp.com/attachments/1495731202512912384/1495867758619922482/image.png?ex=69e7cee9&is=69e67d69&hm=5a2d0d067014866842166d7b32f00dc81ee3680b74e181b1cb82d21c2545ae9f&",
+      "reason": "",
+      "cpu_screenshot": "https://cdn.discordapp.com/attachments/1495731202512912384/1495867780849729597/image.png?ex=69e7ceee&is=69e67d6e&hm=ec5d413ff99e083b4063249b97c49eb94751a615237863956ff70d4d4197715a&",
+      "install_date": "https://cdn.discordapp.com/attachments/1495731202512912384/1495867796528037888/image.png?ex=69e7cef2&is=69e67d72&hm=8b0f7c07fabcc87cf80c00ca413b92ee55614b1cfea470e03635a398e2dac61d&",
+      "pc_changed": "no"
+    },
+    "imageUrls": {
+      "payment_proof": "https://cdn.discordapp.com/attachments/1495731202512912384/1495867758619922482/image.png?ex=69e7cee9&is=69e67d69&hm=5a2d0d067014866842166d7b32f00dc81ee3680b74e181b1cb82d21c2545ae9f&",
+      "cpu_screenshot": "https://cdn.discordapp.com/attachments/1495731202512912384/1495867780849729597/image.png?ex=69e7ceee&is=69e67d6e&hm=ec5d413ff99e083b4063249b97c49eb94751a615237863956ff70d4d4197715a&",
+      "install_date": "https://cdn.discordapp.com/attachments/1495731202512912384/1495867796528037888/image.png?ex=69e7cef2&is=69e67d72&hm=8b0f7c07fabcc87cf80c00ca413b92ee55614b1cfea470e03635a398e2dac61d&"
+    },
+    "status": "accepted",
+    "claimedBy": null,
+    "createdAt": "2026-04-20T19:24:39.230Z"
+  }
+}
